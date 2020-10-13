@@ -1,0 +1,41 @@
+#info {
+    background-color:rgb(112, 174, 199);
+}
+#sinopsis {
+    background-color:rgb(231, 78, 6);
+  }
+  #cast {
+    background-color:	rgb(240, 137, 23);
+  }
+  #nombres {
+    color:	rgb(247, 244, 241);
+  }
+  
+  .photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+  }
+  .photoC {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 3.5cm;
+    height: 4.5cm;
+  }
+  #link {
+    color: rgb(214, 223, 178);
+  }
+  #linkT {
+    color: black;
+  }
+  .columns {
+    background-color: lemonchiffon;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+  }
